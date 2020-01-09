@@ -7,11 +7,19 @@
     <link rel="stylesheet" href="style/opmaak.css" type="text/css">
   </head>
   <body>
-    <ul>
-      <li><a href="#home"><img src="logo's/logo2.png" width="100px"></a></li>
-      <li><a href="#news">locaties</a></li>
-      <li><a href="#contact">lessen</a></li>
-      <li><a class="active" href="#about">About</a></li>
-    </ul>
+    <div class="navbar">
+      <a href="#home"><img src="logo's/logo2.png" width="100px"></a>
+      <a href="#news">News</a>
+      <div class="dropdown">
+        <button class="dropbtn">Dropdown
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="#">Link 1</a>
+          <a href="#">Link 2</a>
+          <a href="#">Link 3</a>
+        </div>
+      </div>
+    </div>
   </body>
 </html>

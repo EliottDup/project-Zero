@@ -26,14 +26,15 @@ li a:hover {
 }
 
 .navbar {
-  overflow: hidden;
-  background-color: #333;
+  overflow:auto;
+  background-color: #69b788;
+  font-family: 'Open Sans'
 }
 
 .navbar a {
   float: left;
   font-size: 16px;
-  color: white;
+  color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -48,7 +49,7 @@ li a:hover {
   font-size: 16px;
   border: none;
   outline: none;
-  color: white;
+  color: black;
   padding: 14px 16px;
   background-color: inherit;
   font-family: inherit;
@@ -56,15 +57,15 @@ li a:hover {
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: red;
+  background-color: #fefe68;
 }
 
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #f9f9f9;
+  background-color: #76CC97;
   min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  box-shadow: 25px 25px 16px 1000px rgba(0,0,0,0.5);
   z-index: 1;
 }
 
@@ -73,14 +74,21 @@ li a:hover {
   color: black;
   padding: 12px 16px;
   text-decoration: none;
-  display: block;
+  display:block;
   text-align: left;
+  font-family: 'Open Sans'
 }
 
 .dropdown-content a:hover {
-  background-color: #ddd;
+  background-color: #A2A242;
 }
 
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600&display=swap');
+
+ #beterehitbox{
+   padding: 43px 30px;
+ }

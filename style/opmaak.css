@@ -90,6 +90,6 @@ li a:hover {
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600&display=swap');
 
  #beterehitbox{
-   padding: 43px 30px;
-   position: relative;
+   padding: 44.5px 30px;
+   position: static;
  }

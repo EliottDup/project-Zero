@@ -91,4 +91,5 @@ li a:hover {
 
  #beterehitbox{
    padding: 43px 30px;
+   position: sticky;
  }

@@ -93,3 +93,13 @@ li a:hover {
    padding: 44.5px 30px;
    position: static;
  }
+
+ .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #dbf1c0;
+    color: black;
+    text-align: center;
+ }

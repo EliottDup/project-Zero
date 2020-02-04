@@ -176,3 +176,12 @@ li a:hover {
         margin: 40px;
     }
 }
+
+.lorembox{
+    margin-top: 25px;
+    float: right;
+    background: #a385;
+    border-radius: 10px;
+    line-height: 30px;
+    margin-right: 10px;
+}

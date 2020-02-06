@@ -1,3 +1,7 @@
+.cursor{
+  cursor: pointer;
+}
+
 .credit{
   margin-bottom: 0px;
   margin-top: 0px;
@@ -8,7 +12,8 @@
   box-shadow: 0px 0px 100px 0px rgba(0,0,0,0.7);
   border: 15px solid blue;
   border-color: #41843f;
-  border-radius: 15px
+  border-radius: 15px;
+  cursor: default;
 }
 
 .loremtext{

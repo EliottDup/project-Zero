@@ -1,7 +1,11 @@
+.loremtext{
+  color: white;
+}
 .map-info{
   position: fixed;
   bottom:15px;
-  right: 320px;
+  border-radius: 10px;
+  right: auto;
 }
 .mail{
   overflow: auto;

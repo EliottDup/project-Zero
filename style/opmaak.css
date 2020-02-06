@@ -1,3 +1,16 @@
+.credit{
+  margin-bottom: 0px;
+  margin-top: 0px;
+  background-color: #41843f;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  box-shadow: 0px 0px 100px 0px rgba(0,0,0,0.7);
+  border: 15px solid blue;
+  border-color: #41843f;
+  border-radius: 15px
+}
+
 .loremtext{
   color: white;
 }

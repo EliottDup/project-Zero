@@ -1,3 +1,16 @@
+.credit{
+  margin-bottom: 0px;
+  margin-top: 0px;
+  background-color: #41843f;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  box-shadow: 0px 0px 100px 0px rgba(0,0,0,0.7);
+  border: 15px solid blue;
+  border-color: #41843f;
+  border-radius: 15px
+}
+
 .loremtext{
   color: white;
 }
@@ -5,12 +18,12 @@
   position: fixed;
   bottom:15px;
   border-radius: 10px;
-  right: auto;
+  right: 34%;
 }
 .mail{
   overflow: auto;
   background-color: #41843f;
-  font-family: 'Open Sans';
+  font-family: 'Raleway';
   box-shadow: 0px 0px 100px 0px rgba(0,0,0,0.5);
   border: 15px solid blue;
   border-radius: 15px;
@@ -59,7 +72,7 @@ li a:hover {
 .navbar {
   overflow:auto;
   background-color: #69b788;
-  font-family: 'Open Sans';
+  font-family: 'Raleway';
   box-shadow: 0px 0px 100px 0px rgba(0,0,0,0.5);
 }
 
@@ -108,7 +121,7 @@ li a:hover {
   text-decoration: none;
   display:block;
   text-align: left;
-  font-family: 'Open Sans'
+  font-family: 'Raleway'
 }
 
 .dropdown-content a:hover {

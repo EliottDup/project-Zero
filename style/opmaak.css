@@ -147,6 +147,7 @@ li a:hover {
 .maps{
   margin-top: 25px;
   float: right;
+  border-radius: 15px;
 }
 
  .footer {
@@ -215,4 +216,11 @@ li a:hover {
 
 .kontainer :hover{
     background-color: #fefe68;
+}
+
+.imgage{
+    width:95%;
+    overflow: hidden;
+    margin: 20px auto;
+    padding:20px 0px;
 }

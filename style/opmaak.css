@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 .mapoosterpark{
   float: right;
   margin-top: 1px;
+=======
+@import url('https://fonts.googleapis.com/css?family=Raleway:500&display=swap');
+.hometitle{
+  color: white;
+  text-align: center;
+  font-size: 100px;
+  font-family: 'Raleway', sans-serif;
+>>>>>>> eb9816496901b15b45f8c3399bc6064785c2364f
 }
 
 .cursor{
@@ -17,12 +26,14 @@
   box-shadow: 0px 0px 100px 0px rgba(0,0,0,0.7);
   border: 15px solid blue;
   border-color: #41843f;
-  border-radius: 15px;
+  border-radius: 20px;
   cursor: default;
+  font-family: 'Raleway', sans-serif;
 }
 
 .loremtext{
   color: white;
+  font-family: 'Raleway', sans-serif;
 }
 .map-info{
   position: fixed;
@@ -33,7 +44,7 @@
 .mail{
   overflow: auto;
   background-color: #41843f;
-  font-family: 'Raleway';
+  font-family: 'Raleway', sans-serif;
   box-shadow: 0px 0px 100px 0px rgba(0,0,0,0.5);
   border: 15px solid blue;
   border-radius: 15px;
@@ -82,7 +93,7 @@ li a:hover {
 .navbar {
   overflow:auto;
   background-color: #69b788;
-  font-family: 'Raleway';
+  font-family: 'Raleway', sans-serif;
   box-shadow: 0px 0px 100px 0px rgba(0,0,0,0.5);
 }
 
@@ -107,7 +118,7 @@ li a:hover {
   color: black;
   padding: 14px 16px;
   background-color: inherit;
-  font-family: inherit;
+  font-family: 'Raleway', sans-serif;
   margin: 0;
 }
 
@@ -131,7 +142,7 @@ li a:hover {
   text-decoration: none;
   display:block;
   text-align: left;
-  font-family: 'Raleway'
+  font-family: 'Raleway', sans-serif;
 }
 
 .dropdown-content a:hover {
@@ -175,6 +186,7 @@ li a:hover {
     overflow: hidden;
     margin: 20px auto;
     padding:20px 0px;
+    font-family: 'Raleway', sans-serif;
 }
 
 .container ul{
@@ -228,4 +240,8 @@ li a:hover {
 .imgage{
     width:100%;
     filter: brightness(40%);
+}
+
+.tekstm{
+    text-align: center;
 }

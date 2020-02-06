@@ -1,3 +1,6 @@
+.map-info{
+  float:right;
+}
 .mail{
   overflow: auto;
   background-color: #41843f;

@@ -219,8 +219,5 @@ li a:hover {
 }
 
 .imgage{
-    width:95%;
-    overflow: hidden;
-    margin: 20px auto;
-    padding:20px 0px;
+    width:100%;
 }

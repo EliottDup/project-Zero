@@ -208,11 +208,12 @@ li a:hover {
 
 .lorembox{
     margin-top: 25px;
-    float: right;
+    float: left;
     background: #a385;
     border-radius: 10px;
     line-height: 30px;
     margin-right: 10px;
+    width: 600px;
 }
 
 .kontainer :hover{

@@ -220,4 +220,5 @@ li a:hover {
 
 .imgage{
     width:100%;
+    filter: brightness(40%);
 }

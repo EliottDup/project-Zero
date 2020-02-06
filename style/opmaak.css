@@ -1,15 +1,13 @@
-<<<<<<< HEAD
 .mapoosterpark{
   float: right;
   margin-top: 1px;
-=======
+}
 @import url('https://fonts.googleapis.com/css?family=Raleway:500&display=swap');
 .hometitle{
   color: white;
   text-align: center;
   font-size: 100px;
   font-family: 'Raleway', sans-serif;
->>>>>>> eb9816496901b15b45f8c3399bc6064785c2364f
 }
 
 .cursor{

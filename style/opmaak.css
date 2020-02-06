@@ -1,3 +1,8 @@
+.mapoosterpark{
+  float: right;
+  margin-top: 1px;
+}
+
 .cursor{
   cursor: pointer;
 }
@@ -213,6 +218,7 @@ li a:hover {
     line-height: 30px;
     margin-right: 10px;
     width: 600px;
+    padding:9px;
 }
 
 .kontainer :hover{

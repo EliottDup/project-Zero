@@ -1,6 +1,7 @@
 .map-info{
-  float:right;
-  margin-top: 12px;
+  position: fixed;
+  bottom:15px;
+  right: 320px;
 }
 .mail{
   overflow: auto;

@@ -1,8 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Raleway:500&display=swap');
+
 .mapoosterpark{
   float: right;
-  margin-top: 1px;
+  margin-top: 25px;
+  border-radius: 15px;
 }
-@import url('https://fonts.googleapis.com/css?family=Raleway:500&display=swap');
+
 .hometitle{
   color: white;
   text-align: center;
@@ -23,8 +28,8 @@
   right: 10px;
   box-shadow: 0px 0px 100px 0px rgba(0,0,0,0.7);
   border: 15px solid blue;
-  border-color: #41843f;
   border-radius: 20px;
+  border-color: #41843f;
   cursor: default;
   font-family: 'Raleway', sans-serif;
 }
@@ -38,7 +43,14 @@
   bottom:15px;
   border-radius: 10px;
   right: 34%;
+  width: 390px;
+  height: 300px;
 }
+
+.fotonavbar{
+  width: 75px;
+}
+
 .mail{
   overflow: auto;
   background-color: #41843f;
@@ -51,8 +63,6 @@
   bottom:10px;
   right: 10px;
 }
-
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600&display=swap');
 
 body{
   background-color: #009999;
